@@ -1,0 +1,23 @@
+.navbar.navbar-default {
+	border-radius: 0;
+	border: 0;
+	background-color: #E9B138;
+}
+
+.navbar-default .navbar-brand {
+	color: #fff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+section {
+	background: grey;
+	padding: 20px;
+	margin: 30px;
+}
+
+section h3 {
+	text-align: center;
+}
